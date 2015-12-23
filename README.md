@@ -1,5 +1,7 @@
 # ConferenceCenter
 
+[![Join the chat at https://gitter.im/zackgus/conference-center](https://badges.gitter.im/zackgus/conference-center.svg)](https://gitter.im/zackgus/conference-center?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installing and running locally
 - Clone the repository.
 - Launch Google App Engine Launcher.
